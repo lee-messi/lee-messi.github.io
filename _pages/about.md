@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Somers Family Hall</p>
-    <p>1 Brookings Dr.</p>
-    <p>University City, MO, 63130</p>
+  more_info: 
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a fourth year PhD Candidate at Washington University in St.Louis. I am part of the Psychological & Brain Sciences track of the Division of Computational and Data Sciences, working as a primary graduate student at the Diversity Science Lab. My advisors are Calvin K. Lai in the Psychological & Brain Sciences Department at WashU and Jacob M. Montgomery in the Political Science Department at WashU. 
+Hi. I am a fourth year PhD Candidate at Washington University in St.Louis. I am part of the Psychological & Brain Sciences track of the Division of Computational and Data Sciences, working as a primary graduate student of the Diversity Science Lab. 
 
-My work is at the intersection of Artifical Intelligence (AI) and Social Psychology. I investigate biases embedded in AI systems, with a specific focus on the representational biases surrounding racial/ethnic groups in Large Language Models (LLMs; e.g., ChatGPT). Through my research, I aim to shed light on the ways in which different human-like biases manifest in these systems and explore strategies to mitigate their impact on society. 
-
-In the rapidly evolving field of AI, understanding and addressing biases is of utmost importance. My passion lies in unraveling the complex relationship between human behavior and the technologies we develop. By exploring the intersection of Artifical Intelligence and Social Psychology, I strive to contribute to the development of fair and inclusive AI systems that can be harnessed by diverse groups.
+My work is at the intersection of Artifical Intelligence (AI) and Social Psychology. I investigate biases embedded in NLP systems, with a specific focus on the representational biases surrounding racial/ethnic groups in Large Language Models (LLMs; e.g., ChatGPT). Through my research, I aim to shed light on the ways in which different human-like biases manifest in these systems and explore strategies to mitigate their impact on society. 
