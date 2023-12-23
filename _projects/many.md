@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Many Groups
+title: Many
 description: The Many Groups Project
 # img: 
 importance: 2
