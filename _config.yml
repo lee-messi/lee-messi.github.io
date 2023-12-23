@@ -126,7 +126,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 announcements:
@@ -279,15 +279,6 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
-# -----------------------------------------------------------------------------
-# Collections
-# -----------------------------------------------------------------------------
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
