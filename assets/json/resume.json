@@ -88,7 +88,13 @@
     {
       "name": "Coffee",
       "keywords": [
-        "Coffee beans", "Espresso machines"
+        "Coffee Shops", "Espresso machines"
+      ]
+    }, 
+    {
+      "name": "Football",
+      "keywords": [
+        "Lionel Messi", "Inter Miami CF"
       ]
     }
   ]
