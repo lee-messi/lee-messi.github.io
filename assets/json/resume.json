@@ -25,22 +25,20 @@
   "education": [
     {
       "institution": "Washington University in St.Louis",
-      "location": "University City, Missouri",
-      "url": "",
+      "url": "https://wustl.edu/",
       "area": "Division of Computational and Data Sciences",
       "studyType": "PhD",
-      "startDate": "2020-09",
-      "endDate": "2025-06",
+      "startDate": "2020",
+      "endDate": "2025",
       "score": "4.0/4.0"
     }, 
     {
       "institution": "The Hong Kong University of Science and Technology",
-      "location": "Clear Water Bay, Hong Kong",
       "url": "https://hkust.edu.hk/",
       "area": "Quantitative Social Analysis",
       "studyType": "BSc",
-      "startDate": "2017-09",
-      "endDate": "2020-07",
+      "startDate": "2017",
+      "endDate": "2020",
       "score": "4.062/4.30"
     }
   ],
