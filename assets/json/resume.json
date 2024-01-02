@@ -67,6 +67,13 @@
   ],
   "publications": [
     {
+      "name": "America’s racial framework of superiority and Americanness embedded in natural language",
+      "publisher": "PNAS Nexus",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1093/pnasnexus/pgad485",
+      "summary": "America's racial framework is embedded in American English."
+    },
+    {
       "name": "The Effect of Group Status on the Variability of Group Representations in {LLM}-generated Text",
       "publisher": "Socially Responsible Language Modelling Research",
       "releaseDate": "2023",
