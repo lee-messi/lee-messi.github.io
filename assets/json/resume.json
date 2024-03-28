@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Messi H.J. Lee",
-    "label": "AI Bias Researcher",
+    "label": "PhD Candidate @ WashU",
     "image": "",
     "email": "hojunlee@wustl.edu",
     "url": "https://lee-messi.github.io/",
@@ -26,16 +26,16 @@
       "location": "Missouri, USA",
       "area": "Division of Computational and Data Sciences",
       "studyType": "PhD",
-      "startDate": "2020-09-01",
-      "endDate": "2025-06-01"
+      "startDate": "2020",
+      "endDate": "2025"
     },
     {
       "institution": "The Hong Kong University of Science and Technology",
       "location": "Hong Kong SAR",
       "area": "Quantitative Social Analysis",
       "studyType": "BSc",
-      "startDate": "2017-09-01",
-      "endDate": "2020-06-01"
+      "startDate": "2017",
+      "endDate": "2020"
     }
   ],
   "publications": [
@@ -61,10 +61,5 @@
       "language": "English",
       "fluency": "Native"
     }
-  ],
-  "interests": [
-    {"name": "Coffee"},
-    {"name": "Soccer"},
-    {"name": "Tennis"}
   ]
 }
