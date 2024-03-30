@@ -47,7 +47,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -74,7 +74,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: messi-lee # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: k15hLEsAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2278586247 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3096-1112 # your ORCID ID
 medium_username: # your Medium username
@@ -128,7 +128,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
