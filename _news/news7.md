@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My submission "Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans" to ACM Conference on Fairness, Accountability, and Transparency 2024 (ACM FAccT '24) was accepted for publication. See you in Rio! 
+My submission "Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans" to ACM FAccT '24 was accepted for publication. See you in Rio! 
