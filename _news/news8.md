@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-28 20:20:00-0400
+date: 2024-04-26 07:04:00-0400
 inline: true
 related_posts: false
 ---
 
-You can now access the preprint of my paper "[Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans](https://arxiv.org/abs/2401.08495)" on ArXiv.
+I was accepted to the [OpenAI API Researcher Access Program](https://openai.com/form/researcher-access-program)! As part of the program, I will be granted OpenAI API credits to continue my work on homogeneity bias in Large Language Models. 

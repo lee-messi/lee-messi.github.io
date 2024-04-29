@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-29 10:40:00-0400
+date: 2024-04-28 20:20:00-0400
 inline: true
 related_posts: false
 ---
 
-I am thrilled to announce that I have been awarded a $1,000 travel grant to attend the ACM Conference on Fairness, Accountability, and Transparency (FAccT) in 2024. 
+You can now access the preprint of my paper "[Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans](https://arxiv.org/abs/2401.08495)" on ArXiv.
