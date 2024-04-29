@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper "[The Effect of Group Status on the Variability of Group Representations in LLM-generated Text](https://openreview.net/forum?id=izC60DLg29)" was accepted for poster presentation at the Socially Responsible Language Modelling Research (SoLaR) Workshop at NeurIPS 2023. 
+My paper "[The Effect of Group Status on the Variability of Group Representations in LLM-generated Text](https://openreview.net/forum?id=izC60DLg29)" was accepted for poster presentation at the Socially Responsible Language Modelling Research (SoLaR) Workshop at NeurIPS 2023.
