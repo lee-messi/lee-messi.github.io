@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am thrilled to announce that I have been awarded a $1,000 travel grant to attend the ACM Conference on Fairness, Accountability, and Transparency (FAccT) in 2024. 
+I am thrilled to announce that I have been awarded a $1,000 travel grant to attend the ACM Conference on Fairness, Accountability, and Transparency (FAccT) in 2024.
