@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am happy to share that I will be a program committee member of the Socially Responsible Language Modelling Research (SoLaR) workshop at NeurIPS 2024.
+I am happy to share that I will be a program committee member of the [Socially Responsible Language Modelling Research (SoLaR) Workshop](https://solar-neurips.github.io/) at NeurIPS 2024.
