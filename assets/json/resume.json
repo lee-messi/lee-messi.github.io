@@ -40,6 +40,12 @@
   ],
   "publications": [
     {
+      "name": "More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models",
+      "publisher": "OSF Preprints",
+      "releaseDate": "2024-05-21",
+      "url": "https://osf.io/preprints/osf/wvxy2"
+    },
+    {
       "name": "Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans",
       "publisher": "FAccT '24: The 2024 ACM Conference on Fairness, Accountability, and Transparency",
       "releaseDate": "2024-06-05",
