@@ -40,6 +40,12 @@
   ],
   "publications": [
     {
+      "name": "Probability of Differentiation Reveals Brittleness of Homogeneity Bias in Large Language Models",
+      "publisher": "ArXiv",
+      "releaseDate": "2024-07-10",
+      "url": "https://arxiv.org/abs/2407.07329"
+    },
+    {
       "name": "More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models",
       "publisher": "ArXiv",
       "releaseDate": "2024-05-22",
