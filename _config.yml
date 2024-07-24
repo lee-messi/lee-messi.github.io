@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Feel free to send me an email. hojunlee@wustl.edu
+  Feel free to send me an email. hojunlee[at]wustl[dot]edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -147,6 +147,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
+    enabled: true
     output: true
     permalink: /projects/:path/
 
