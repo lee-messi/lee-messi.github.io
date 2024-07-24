@@ -129,6 +129,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  blogs:
+    defaults:
+      layout: post
+    output: true
+    permalink: /blogs/:path/
   projects:
     output: true
     permalink: /projects/:path/
