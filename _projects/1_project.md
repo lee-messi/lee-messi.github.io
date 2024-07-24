@@ -1,25 +1,19 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Homogeneity Bias in Artifical Intelligence
+description: a short introduction to my research
+img: 
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Social psychologists have long studied a phenomenon referred to as the *outgroup homogeneity effect*. This phenomenon refers to a tendency of individuals to perceive members of *outgroups* as more homogeneous than members of *ingroups*. Here, ingroup refers to the group that someone identifies with while outgroup refers to the group that one *does not* identify with. For example, as a student of Washington University in St. Louis, I would identify other students at WashU as my ingroup whereas I would identify students at other schools as my outgroup, and according to the *outgroup homogeneity effect*, I have the tendency to perceive students at other schools as more homogeneous and less diverse than students at WashU. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A number of explanations explain this phenomenon. One is *contact*. Naturally, we are more likely to come into contact with ingroup members than outgroup members. For exmaple, I am more likely to come across different students at WashU, taking classes or going to and from the lab, than I am to come across students at other schools. Because I come across more students at WashU, of different majors, looks, styles, personality ... etc., I can perceive them as more diverse. On the other hand, I am more likely to generalize based on the limited observations I've made, if any, about other groups, and perceive them that way. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Another explanation has to do with the social identity theory. Social identity theory posits that individuals categorize people into various social groups, identify with groups they belong to, and adopt group membership as part of their self-concept. Minority group members, for example, are more likely to accentuate intragroup solidarity by focusing on common aspects shared within the group, thereby resulting in minority group members being perceived as more homogeneous. 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
