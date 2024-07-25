@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: lee-messi # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
+x_username: l33_messi # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: messi-lee # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -120,23 +120,6 @@ google_site_verification: # your google-site-verification ID (Google Search Cons
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
-
-# Pagination
-pagination:
-  enabled: true
-
-related_blog_posts:
-  enabled: true
-  max_related: 5
-
-# -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
@@ -147,7 +130,8 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    enabled: true
+    defaults:
+      layout: post
     output: true
     permalink: /projects/:path/
 
@@ -157,7 +141,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
