@@ -2,7 +2,7 @@
 layout: page
 title: My Research
 description: 
-img: bert2_race, bert2_interaction
+img: 
 importance: 1
 category: work
 related_publications: true
