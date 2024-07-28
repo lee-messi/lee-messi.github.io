@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homogeneity Bias in Artifical Intelligence
+title: My Research
 description: 
 img: bert2_race, bert2_interaction
 importance: 1
@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-In this blog post, I discuss some of my research, what I am interested in, how I approach these problems, and how they related to each other. 
+This blog post is an introduction to my research - what I am interested in, how I approach those issues, and how they relate to each other. If you would like to discuss my research and have any insights to share, don't hesistate to email me at hojunlee[at]wustl[dot]edu. 
 
 ### The Outgroup Homogeneity Effect
 
@@ -68,7 +68,7 @@ In our work, we speculate that homogeneity bias in LLMs is a reproduction of bia
 
 Large Language Models can now process additional modalities like vision and speech. For example, Vision-Language Models can take in images as inputs and write texts about those images, and it can also generate images in response to text prompts. While these advancements are great, it makes us wonder if the bias extends beyond the text modality and reproduces the bias when processing visual inputs. 
 
-In subsequent work, we decided to assess homogeneity bias in a Vision-Language Model. This allowed us to address some of the limitations we noticed in the previous work. For example, when assessing bias in LLMs, we had to signal group identity using names or group labels. Unfortunately, names encode a lot more than just group identity, and there's just not enough group labels. In VLMs, we could signal group identity using image stimuli selected from a database of standardized images constructed for this very purpose: to experimentally signal group identities. We selected 90-ish images for two racial groups (i.e., African and White Americans) and two gender groups (i.e., men and women). 
+In subsequent work, we decided to assess homogeneity bias in a Vision-Language Model. This allowed us to address some of the limitations we noticed in our previous work. For example, when assessing bias in LLMs, we had to signal group identity using names or group labels. Unfortunately, names encode a lot more than just group identity, and there's just not enough group labels. In VLMs, we could signal group identity using image stimuli selected from a database of standardized images constructed for this very purpose: to experimentally signal group identities. We selected 90-ish images for two racial groups (i.e., African and White Americans) and two gender groups (i.e., men and women). 
 
 In this work, we gave the model a neutral prompt asking it to generate a 30-word story about the individual featured inside the image stimuli supplied to model. Then, we compared the pairwise cosine similarity measure between groups. 
 

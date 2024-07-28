@@ -6,7 +6,7 @@ description: Cool projects that I've worked on.
 nav: true
 nav_order: 4
 display_categories: [work]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
