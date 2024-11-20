@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-The preprint of my new paper "[More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models](https://arxiv.org/abs/2407.06194)" is now available on ArXiv. We find that distinctively Black and feminine faces are subject to greater streotyping in Vision Language Models.
+The preprint of my new paper "More Distinctively Black and Feminine Faces Linked to Increased Stereotyping in Vision-Language Models" is now available on ArXiv. We find that prototypically Black and feminine faces are subject to greater streotyping in Vision Language Models. Look out for my blog post on this article!
