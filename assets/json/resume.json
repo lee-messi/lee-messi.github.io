@@ -40,9 +40,15 @@
   ],
   "publications": [
     {
-      "name": "Probability of Differentiation Reveals Brittleness of Homogeneity Bias in Large Language Models",
+      "name": "Vision-Language Models Represent Darker-Skinned Black Individuals as More Homogeneous than Lighter-Skinned Black Individuals",
       "publisher": "ArXiv",
-      "releaseDate": "2024-07-10",
+      "releaseDate": "2024-12-12",
+      "url": "https://arxiv.org/abs/2412.09668"
+    },
+    {
+      "name": "Probability of Differentiation Reveals Brittleness of Homogeneity Bias in GPT-4",
+      "publisher": "ArXiv",
+      "releaseDate": "2024-12-12",
       "url": "https://arxiv.org/abs/2407.07329"
     },
     {
