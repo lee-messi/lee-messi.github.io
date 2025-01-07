@@ -40,6 +40,12 @@
   ],
   "publications": [
     {
+      "name": "Examining the Robustness of Homogeneity Bias to Hyperparameter Adjustments in GPT-4",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-01-04",
+      "url": "https://arxiv.org/abs/2501.02211"
+    },
+    {
       "name": "Vision-Language Models Represent Darker-Skinned Black Individuals as More Homogeneous than Lighter-Skinned Black Individuals",
       "publisher": "ArXiv",
       "releaseDate": "2024-12-12",
