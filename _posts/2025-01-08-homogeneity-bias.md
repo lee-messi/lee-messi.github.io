@@ -19,7 +19,7 @@ Imagine walking into a classroom of 20 students on the first day of school. You'
 
 In this classroom, students naturally split into groups. Let's say one group loves sports and always plays outside during recess, while another prefers board games indoors. This division, though based simply on interests, can grow stronger over time.
 
-Think about being in the board game group. At first, you might casually invite someone from the sports group to join your game. After several rejections, you start assuming all sports group members wouldn't be interested in board games and decide never to invite anyone again from the sports group. This assumption about an entire group is what we call a *stereotype*. The uncertainty you feel about asking them again is *prejudice*, and eventually choosing not to invite them is a form of *discrimination*.
+Think about being in the board game group. At first, you might casually invite someone from the sports group to join your game. After several rejections, you start assuming all sports group members wouldn't be interested in board games and decide never to invite anyone again from the sports group. This assumption about an entire group is what we call a _stereotype_. The uncertainty you feel about asking them again is _prejudice_, and eventually choosing not to invite them is a form of _discrimination_.
 
 #### Seeing Other Groups as "All the Same"
 
@@ -57,8 +57,8 @@ The explanation likely comes from how AI systems learn. These models are trained
 
 #### Looking Forward
 
-Our research has recently expanded to study whether these patterns appear when AI systems process facial images. This is particularly important as AI systems become more integrated into our daily lives, from content generation to decision support. Understanding these biases is the first step toward building fairer technology that respects the diversity of groups. 
+Our research has recently expanded to study whether these patterns appear when AI systems process facial images. This is particularly important as AI systems become more integrated into our daily lives, from content generation to decision support. Understanding these biases is the first step toward building fairer technology that respects the diversity of groups.
 
 If you'd like to learn more about this research, you can read our paper "[Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans](https://dl.acm.org/doi/10.1145/3630106.3658975)" published in the ACM Conference on Fairness, Accountability, and Transparency 2024 (FAccT '24).
 
-*Note: All visualizations included in the blog post were created using ChatGPT (GPT-4o)*
+_Note: All visualizations included in the blog post were created using ChatGPT (GPT-4o)_
