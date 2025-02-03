@@ -40,6 +40,12 @@
   ],
   "publications": [
     {
+      "name": "Homogeneity Bias as Differential Sampling Uncertainty in Language Models",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-01-31",
+      "url": "https://arxiv.org/abs/2501.19337"
+    },
+    {
       "name": "Examining the Robustness of Homogeneity Bias to Hyperparameter Adjustments in GPT-4",
       "publisher": "ArXiv",
       "releaseDate": "2025-01-04",
