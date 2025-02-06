@@ -7,7 +7,7 @@ description: A short blog post about my research on homogeneity bias in Large La
 categories: research
 ---
 
-This blog post introduces my research at the intersection of Social Psychology and Artificial Intelligence. While AI might be familiar to many through recent developments like ChatGPT, the social psychology aspects might be less known. Let me walk you through how these fields connect, starting with a simple classroom example.
+This blog post is about my research at the intersection of Social Psychology and Artificial Intelligence. While AI might be familiar to many through recent developments like ChatGPT, the social psychology aspects might be less known. Let me walk you through how these fields connect, starting with a simple classroom example.
 
 ### Understanding Social Psychology Through a Classroom
 
