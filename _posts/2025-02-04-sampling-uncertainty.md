@@ -33,6 +33,8 @@ By enforcing this more uniform distribution of attention, we reduce the model's 
 
 This work on regularizing attention weights to mitigate social bias led me to consider homogeneity bias from a new angle. What if homogeneity bias in language models manifests from how these models sample tokens during inference? Specifically, when generating text about marginalized groups, the token sampling distribution might become more deterministic, focusing on a narrower set of possible next words.
 
+{% include figure.liquid loading="eager" path="assets/img/2025-02-04-sampling-uncertainty/study_design.png" class="img-fluid rounded z-depth-1" %}
+
 We tested this idea using Vision-Language Models as our experimental setup. We asked these models to generate stories about images showing different racial and gender groups, then carefully tracked how the models made their word choices. To measure this scientifically, we used three different metrics: entropy, perplexity, and probability of differentiation. These metrics helped us understand if the model was more predictable when writing about certain groups versus others-similar to how a recommendation system might fall back on popular, safe suggestions when it has limited data about a user's preferences.
 
 ## Results 
