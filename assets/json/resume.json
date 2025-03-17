@@ -40,6 +40,18 @@
   ],
   "publications": [
     {
+      "name": "Implicit Bias-Like Patterns in Reasoning Models",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-03-17",
+      "url": "https://arxiv.org/abs/2503.11572"
+    },
+    {
+      "name": "Visual Cues of Gender and Race Are Associated with Stereotyping in Vision-Language Models",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-03-14",
+      "url": "https://arxiv.org/abs/2503.05093"
+    },
+    {
       "name": "Homogeneity Bias as Differential Sampling Uncertainty in Language Models",
       "publisher": "ArXiv",
       "releaseDate": "2025-01-31",
@@ -62,11 +74,6 @@
       "publisher": "ArXiv",
       "releaseDate": "2024-12-12",
       "url": "https://arxiv.org/abs/2407.07329"
-    },
-    {
-      "name": "More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models",
-      "publisher": "ArXiv",
-      "releaseDate": "2024-05-22"
     },
     {
       "name": "Large Language Models Portray Socially Subordinate Groups as More Homogeneous, Consistent with a Bias Observed in Humans",
