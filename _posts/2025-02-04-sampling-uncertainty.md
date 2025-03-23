@@ -37,7 +37,7 @@ This work on regularizing attention weights to mitigate social bias led me to co
 
 We tested this idea using Vision-Language Models as our experimental setup. We asked these models to generate stories about images showing different racial and gender groups, then carefully tracked how the models made their word choices. To measure this scientifically, we used three different metrics: entropy, perplexity, and probability of differentiation. These metrics helped us understand if the model was more predictable when writing about certain groups versus others-similar to how a recommendation system might fall back on popular, safe suggestions when it has limited data about a user's preferences.
 
-## Results 
+## Results
 
 Our initial analysis with GPT-4 Turbo revealed a consistent pattern: when generating text, the model showed significantly lower uncertainty in its word choices when writing about Black Americans and women compared to White Americans and men. This pattern held true across all 50 token positions we analyzed.
 
@@ -54,7 +54,6 @@ The visualizations above demonstrate consistently lower measures across token po
 Our approach offers a new way to understand homogeneity bias in language models by looking directly at how these models make word choices during text generation. Previous methods relied on using encoder models to analyze the final generated text, but these methods shared a fatal limitation: these encoder models might share the same biases as the models being studied, making it harder to isolate different sources of bias.
 
 By examining token sampling distributions during inference, we get a more direct window into how these models actually behave when generating text. Rather than looking at the end product, we're observing the model's decision-making process in real-time – specifically, how certain or uncertain it is when choosing words for different groups. This mechanistic approach helps us pinpoint where and how homogeneity bias manifests in the generation process, opening new possibilities for addressing these biases at their source.
-
 
 ### References
 
