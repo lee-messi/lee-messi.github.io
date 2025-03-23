@@ -3,7 +3,7 @@ layout: post
 title: Homogeneity Bias as Differential Sampling Uncertainty
 date: 2025-02-04 00:00:00
 description: Introduction to a new paper
-# tags: research
+tags: homogeneity-bias
 categories: research
 ---
 

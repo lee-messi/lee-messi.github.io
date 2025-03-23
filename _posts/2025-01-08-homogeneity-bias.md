@@ -3,7 +3,7 @@ layout: post
 title: Homogeneity Bias in Large Language Models
 date: 2025-01-08 00:00:00
 description: A short blog post about my research on homogeneity bias in Large Language Models
-# tags: research
+tags: homogeneity-bias
 categories: research
 ---
 
