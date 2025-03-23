@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Homogeneity Bias as Differential Sampling Uncertainty
+title: Implicit Bias-like Patterns in Reasoning Models
 date: 2025-03-23 00:00:00
-description: Introduction to a new paper
+description: New pre-print on implicit bias in reasoning models
 tags: implicit-bias
 categories: research
 ---
