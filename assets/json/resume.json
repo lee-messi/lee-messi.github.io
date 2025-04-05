@@ -40,6 +40,11 @@
   ],
   "publications": [
     {
+      "name": "Demographic Biases in Political Ideology Attribution by Vision-Language Models",
+      "publisher": "Under Review",
+      "releaseDate": "2025-04-04"
+    },
+    {
       "name": "Vision-Language Models Generate More Homogeneous Stories for Phenotypically Black Individuals",
       "publisher": "ArXiv",
       "releaseDate": "2025-03-20",
