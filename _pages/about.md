@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Washington University in St. Louis. University City. Missouri.
+subtitle: Technical Research Personnel. Seoul. Republic of Korea.
 
 profile:
   align: right
@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a fifth year PhD Candidate in the [Division of Computational and Data Sciences](https://datasciences.wustl.edu/) at Washington University in St. Louis (WashU). I am part of the Psychological & Brain Sciences Track, doing research at the Diversity Science Lab. My advisors are [Calvin K. Lai](https://scholar.google.com/citations?hl=en&user=Nkkrs_YAAAAJ) in the Department of Psychology at Rutgers University and [Jacob M. Montgomery](https://scholar.google.com/citations?user=GaWC-J4AAAAJ) in the Political Sciences Department at WashU.
+Hi! I'm Messi H.J. Lee. In May of 2025, I completed my PhD in Computational and Data Sciences at Washington University in St. Louis (WashU). During my PhD, I was adivsed by two amazing advisors–[Calvin K. Lai](https://scholar.google.com/citations?hl=en&user=Nkkrs_YAAAAJ) in the Department of Psychology at Rutgers University and [Jacob M. Montgomery](https://scholar.google.com/citations?user=GaWC-J4AAAAJ) in the Political Sciences Department at WashU.
 
-My research focuses on applying text-as-data methodologies to measure stereotyping in Large- and Vision-Language Models. Recently, I've shifted my attention to measuring [implicit bias in reasoning models](https://arxiv.org/abs/2503.11572). In this work, we discovered that reasoning models require significantly more computational resources to process association-incompatible pairings (e.g., men-family & women-career) compared to association-compatible ones (e.g., men-career & women-family). This finding suggests that even advanced AI systems exhibit processing patterns analogous to human implicit bias.
+My research focuses on the intersection between Artificial Intelligence and social psychology where I evaluate stereotyping in AI models. I recently completed work looking at [implicit bias in reasoning models](https://arxiv.org/abs/2503.11572) where we discover that reasoning models require significantly more computational resources to process association-incompatible information (e.g., men-family & women-career) compared to association-compatible information (e.g., men-career & women-family). This finding suggests that even advanced AI systems exhibit processing patterns analogous to human implicit bias.
 
-After completing my PhD in May of 2025, I intend to fulfill my military service obligation in South Korea as a Technical Research Personnel (전문연구요원), preferably continuing research in the areas of AI Bias and Computational Social Science. If there are any relevant opportunities I should know about, please feel free to send me an email at: hojunlee[at]wustl[dot]edu.
+I am currently in South Korea fulfilling my military service obligation as a technical research personnel (전문연구요원) developing AI models for pathology and doing research related to bias in pathology-related AI models. If you would like collaborate on topics related to AI bias and stereotyping, feel free to reach out to me at hojunlee1012[at]gmail[dot]com. 
