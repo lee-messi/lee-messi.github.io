@@ -20,6 +20,14 @@
       }
     ]
   },
+  "work": [
+    {
+      "name": "MTS Company",
+      "position": "Research Scientist",
+      "startDate": "2025-06-02",
+      "summary": "Developing AI models for digital pathology and conducting bias related research"
+    }
+  ],
   "education": [
     {
       "institution": "Washington University in St. Louis",
