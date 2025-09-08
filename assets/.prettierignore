@@ -1,3 +1,5 @@
 css/main.scss
 _sass/
 *.css
+js/distillpub/template.v2.js
+js/distillpub/transforms.v2.js
