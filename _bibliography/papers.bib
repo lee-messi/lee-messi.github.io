@@ -1,5 +1,24 @@
 ---
 
+@misc{lee_implicit_2025,
+  title = {Implicit {{Bias-Like Patterns}} in {{Reasoning Models}}},
+  author = {Lee, Messi H. J. and Lai, Calvin K.},
+  year = {2025},
+  month = sep,
+  number = {arXiv:2503.11572},
+  eprint = {2503.11572},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2503.11572},
+  urldate = {2025-09-30},
+  abstract = {Implicit biases refer to automatic mental processes that shape perceptions, judgments, and behaviors. Previous research on "implicit bias'' in LLMs focused primarily on outputs rather than the processes underlying the outputs. We present the Reasoning Model Implicit Association Test (RM-IAT) to study implicit bias-like processing in reasoning models, which are LLMs that use step-by-step reasoning for complex tasks. Using RM-IAT, we find that reasoning models like o3-mini, DeepSeek-R1, gpt-oss-20b, and Qwen-3 8B consistently expend more reasoning tokens on association-incompatible tasks than association-compatible tasks, suggesting greater computational effort when processing counter-stereotypical information. In contrast, Claude 3.7 Sonnet exhibited reversed or inconsistent patterns, likely due to embedded safety mechanisms that flagged or rejected socially sensitive associations. These divergent behaviors highlight important differences in how alignment and safety processes shape model reasoning. As reasoning models become increasingly integrated into real-world decision-making, understanding their implicit bias-like patterns and how alignment methods influence them is crucial for ensuring fair and trustworthy AI systems.},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computers and Society},
+  selected = {true},
+  pdf = {lee_implicit_2025.pdf}
+}
+
+
 @misc{jeon_demographic_2025,
   title = {Demographic {Biases} in {Political} {Ideology} {Attribution} by {Vision}-{Language} {Models}},
   author = {Jeon, Soyeon and Lee, Messi H.J. and Montgomery, Jacob M. and Lai, Calvin K.},
@@ -9,25 +28,6 @@
   abstract = {When foundation models analyze political content, do they use demographic characteristics as shortcuts for ideological attribution? We conducted detailed experiments with GPT-4o-mini and validated key findings across GPT-4o and LLaVA, using identical, ideologically neutral campaign advertisements with systematically varied candidate demographics. All models consistently attributed more liberal ideologies to women than men. These effects exceeded real-world gender differences from a nationally representative survey. However, racial associations differed by model: strong in GPT-4o-mini (where Black candidates received substantially more liberal attributions), attenuated in \texttt{GPT-4o}, and insignificant in LLaVA. These demographic effects persisted across temperature settings, prompt variations, and even explicit debiasing instructions in GPT-4o-mini. Our findings reveal that visual demographic features can shape AI outputs in ways that vary across models, with implications for applications ranging from content classification to simulated voter responses.},
   keywords = {Political Science,Computer Science - Computers and Society},
   selected = {false}
-}
-
-
-@misc{lee_implicit_2025,
-  title = {Implicit {{Bias-Like Patterns}} in {{Reasoning Models}}},
-  author = {Lee, Messi H. J. and Lai, Calvin K.},
-  year = {2025},
-  month = mar,
-  number = {arXiv:2503.11572},
-  eprint = {2503.11572},
-  primaryclass = {cs},
-  publisher = {arXiv},
-  doi = {10.48550/arXiv.2503.11572},
-  urldate = {2025-03-17},
-  abstract = {Implicit bias refers to automatic or spontaneous mental processes that shape perceptions, judgments, and behaviors. Previous research examining `implicit bias' in large language models (LLMs) has often approached the phenomenon differently than how it is studied in humans by focusing primarily on model outputs rather than on model processing. To examine model processing, we present a method called the Reasoning Model Implicit Association Test (RM-IAT) for studying implicit bias-like patterns in reasoning models: LLMs that employ step-by-step reasoning to solve complex tasks. Using this method, we find that reasoning models require more tokens when processing association-incompatible information compared to association-compatible information. These findings suggest AI systems harbor patterns in processing information that are analogous to human implicit bias. We consider the implications of these implicit bias-like patterns for their deployment in real-world applications.},
-  archiveprefix = {arXiv},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Computers and Society},
-  selected = {true},
-  pdf = {lee_implicit_2025.pdf}
 }
 
 
