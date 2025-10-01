@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Favicon by <a href="https://www.flaticon.com/free-icons/messi" title="messi icons">Hopstarter - Flaticon</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: messi-lee, messi # add your own keywords or leave empty
+keywords: Messi H.J. Lee, Messi Lee, Machine Psychology, Researcher # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: player.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -73,7 +73,7 @@ x_username: l33_messi # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: messi-lee # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: k15hLEsAAAAJ # your Google Scholar ID
+scholar_userid: qUz4nA8AAAAJ # your Google Scholar ID
 semanticscholar_id: 2278586247 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3096-1112 # your ORCID ID
