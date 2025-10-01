@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Implicit Bias-like Patterns in Reasoning Models
-date: 2025-03-23 00:00:00
-description: New pre-print on implicit bias in reasoning models
+date: 2025-10-01 00:00:00
+description: Updated pre-print on implicit bias in reasoning models
 tags: implicit-bias
 categories: research
 ---
 
-Think about a traffic light. When you see a red light, what's your immediate response? _Stop_. When you see a green light? _Go_. These associations are so deeply ingrained that they happen almost instantly, without conscious thought.
+Think about a traffic light. When you see a red light, what's your immediate response? _Stop_. When you see a green light? _Go_. These associations are so deeply ingrained in our minds that they happen almost instantly, without conscious thought.
 
 Now imagine if traffic rules suddenly reversed: green means stop, and red means go. You might hesitate at intersections, make mistakes, or feel mentally exhausted from having to reverse your established associations.
 
@@ -17,13 +17,13 @@ This simple thought experiment reveals something profound about how brains work:
 
 ### From Traffic Lights to Implicit Bias
 
-This same automatic processing underlies implicit bias. Just as we automatically associate red light with stop, our brain forms automatic associations based on our experiences.
+This same automatic processing underlies **implicit bias**. Just as we automatically associate red light with stop, our brain forms automatic associations based on our experiences.
 
 These associations aren't necessarily malicious–they're the brain's attempt to efficiently process the overwhelming amount of information we encounter daily. But efficiency comes at a cost. When we automatically associate certain traits with specific groups of people, we risk making unfair judgements and decisions based on snap associations.
 
 ### Measuring Implicit Bias: The Implicit Association Test (IAT)
 
-This brings us to the Implicit Association Test (IAT). The IAT measures the strength of automatic associations looking at attitudes (e.g., Young/Old People + Pleasant/Unpleasant) or stereotypes (e.g., Male/Female + Math/Arts).
+This brings us to the **Implicit Association Test (IAT)**. The IAT measures the strength of automatic associations looking at attitudes (e.g., Young/Old People + Pleasant/Unpleasant) or stereotypes (e.g., Male/Female + Math/Arts).
 
 {% include figure.liquid loading="eager" path="assets/img/2025-03-23-implicit-bias/iat.jpg" class="img-fluid rounded z-depth-1" %}
 
@@ -49,17 +49,17 @@ However, there's a fundamental issue with current approaches to measuring implic
 
 Recently, there has been significant hype surrounding reasoning models in the AI community. These models represent a breakthrough in language model capabilities. Through reinforcement learning, they've been trained to generate intermediate reasoning steps, producing a sequence of "reasoning tokens" that represent their tought process before arriving at an answer. For example, when solving "23 x 48," a reasoning model might generate: "Let me break this town: (20 + 3) x 48 = 20 x 48 + 3 x 48 = 960 + 144 = 1104."
 
-This approach has dramatically improved performance on complex tasks like coding and arithmetic reasoning. Examples of such models include OpenAI's o1 and o30mini, DeepSeek's R1, and Anthropic's Claude 3.7 Sonnet.
+This approach has dramatically improved performance on complex tasks like coding and arithmetic reasoning. Examples of such models include OpenAI's o1 and o30mini, DeepSeek's R1, Anthropic's Claude 3.7 Sonnet, gpt-oss-20b, and Qwen-3 8B.
 
 Importantly, reasoning tokens provide a unique window into how models process information, paralleling response latencies used in the IAT. Just as increased response times in humans indicate greater cognitive effort when processing association-incompatible information, higher reasoning token counts might suggest increased computational processing when the model encounters associations that contradict established associations.
 
 ### Reasoning Models Exhibit Implicit Bias-like Patterns
 
-Inspired by studies of implicit bias in humans, we investigated the amount of deliberation that reasoning models employ in processing association-compatible versus incompatible information. Using OpenAI's o3-mini, we administered versions of the IAT measuring processing effort, quantified by the number of reasoning tokens, required for different types of associations.
+Inspired by studies of implicit bias in humans, we investigated the efficiency of reasoning models in processing association-compatible versus incompatible information. Using the five aforementioned reasoning models, we administered a modified version of the IAT, namely the **Reasoning Model Implicit Association Test (RM-IAT)**, measuring processing effort, quantified by the number of reasoning tokens, required for different types of associations.
 
-{% include figure.liquid loading="eager" path="assets/img/2025-03-23-implicit-bias/main.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/2025-03-23-implicit-bias/main.png" class="img-fluid rounded z-depth-1" %}
 
-Our results showed that the model required significantly more reasoning tokens to process association-incompatible pairings in 9 out of 10 IATs. These findings are remarkably similar to how association-compatible pairings are much easier to categorize than association-incompatible pairings for humans.
+*Our results showed that most reasoning models expended significantly more reasoning tokens when processing association-incompatible information than association-compatible information.* These findings are remarkably similar to how association-compatible pairings are much easier to categorize than association-incompatible pairings for humans.
 
 ### Why This Matters
 
